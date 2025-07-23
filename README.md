@@ -63,11 +63,7 @@ Or in **Google Colab**, use `pyngrok` to expose it:
 !pip install pyngrok streamlit
 ```
 
----
 
-## 🌐 Demo Screenshot
-
-![screenshot](screenshot.png) <!-- Optional: replace with real screen capture -->
 
 ---
 
