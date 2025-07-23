@@ -1,4 +1,4 @@
-# EcomBot---AI-Agent-to-Answer-E-commerce-Data-Questions-
+# EcomBot-AI Agent to Answer E-commerce Data Questions
 Absolutely! Here's a clean, professional `README.md` template for your GitHub repository titled:
 
 ### 🚀 **EcomBot — AI Agent to Answer E-commerce Data Questions**
